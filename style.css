@@ -438,6 +438,9 @@ section .title::after{
 .skills-content .right .angular::before{
     width: 50%;
 }
+.skills-content .right .mvc::before{
+    width: 50%;
+}
 .skills-content .right .node::before{
     width: 60%;
 }
