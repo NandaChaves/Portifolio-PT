@@ -433,7 +433,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .cSharp::before{
-    width: 40%;
+    width: 50%;
 }
 .skills-content .right .angular::before{
     width: 50%;
