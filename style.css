@@ -430,7 +430,7 @@ section .title::after{
     width: 50%;
 }
 .skills-content .right .typescript::before{
-    width: 50%;
+    width: 60%;
 }
 .skills-content .right .cSharp::before{
     width: 50%;
