@@ -427,7 +427,7 @@ section .title::after{
     width: 70%;
 }
 .skills-content .right .server::before{
-    width: 50%;
+    width: 60%;
 }
 .skills-content .right .typescript::before{
     width: 60%;
