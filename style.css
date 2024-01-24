@@ -885,7 +885,10 @@ footer span a:hover{
 
 @media only screen and (max-width:600px){
       .home{
+    display: flex;
     background: url("images/picture2.png") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
   }
 }
 
@@ -909,6 +912,12 @@ footer span a:hover{
     .section-title{
         font-size: 2rem;
     }
+
+   .home{
+    background: url("images/picture3.png") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+  }
 }
 
 @media only screen and (max-width:376px){
@@ -916,7 +925,14 @@ footer span a:hover{
         grid-template-columns: repeat(2,160px);
     }
 }
-
+@media only screen and (max-width:300px){
+.home{
+    display: flex;
+    background: url("images/picture4.png") no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+ }
+}
 @media only screen and (max-width:281px){
     .work_container{
         display: grid;
