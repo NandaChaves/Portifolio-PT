@@ -52,14 +52,14 @@ linkWork.forEach(l=> l.addEventListener("click",activeWork));
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["Developer", "Designer gráfica","Modeladora 3d", "Freelancer"],
+        strings: ["Developer", "Designer gráfica","3d modeladora", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["Developer", "Designer gráfica","Modeladora 3d", "Freelancer"],
+       strings: ["Developer", "Designer gráfica","3d modeladora", "Freelancer"],
         typeSpeed: 100,
         backSpeed: 60,
         loop: true
