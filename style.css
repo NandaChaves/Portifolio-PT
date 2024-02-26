@@ -432,11 +432,14 @@ section .title::after{
 .skills-content .right .typescript::before{
     width: 60%;
 }
+.skills-content .right .angular::before{
+    width: 70%;
+}
 .skills-content .right .cSharp::before{
     width: 50%;
 }
-.skills-content .right .angular::before{
-    width: 70%;
+.skills-content .right .figma::before{
+    width: 60%;
 }
 .skills-content .right .react::before{
     width: 30%;
