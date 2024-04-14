@@ -442,7 +442,7 @@ section .title::after{
     width: 60%;
 }
 .skills-content .right .react::before{
-    width: 30%;
+    width: 40%;
 }
 .skills-content .right .mvc::before{
     width: 50%;
