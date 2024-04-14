@@ -502,6 +502,11 @@ section .title::after{
     font-size: var(--normal-font-size);
     font-weight: var(--font-medium);
     margin-bottom: var(--mb-0-5);
+    margin-top: 5%;
+}
+
+.work_card > .description{
+padding: 10px 0 0 0;	
 }
 
 .work_button{
